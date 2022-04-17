@@ -1,3 +1,4 @@
 tHIS IS A SAMPLE FILE
 
-
+ this is second line of the file
+ thsi is 3rd line
